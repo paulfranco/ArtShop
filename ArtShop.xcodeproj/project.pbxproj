@@ -19,6 +19,7 @@
 		033D5F4C251DD83A003533CB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 033D5F4A251DD83A003533CB /* Main.storyboard */; };
 		033D5F51251DD83B003533CB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 033D5F4F251DD83B003533CB /* LaunchScreen.storyboard */; };
 		033D5F57251DD85A003533CB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 033D5F33251DD81B003533CB /* Assets.xcassets */; };
+		033D5F59251E23C5003533CB /* LoginStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 033D5F58251E23C5003533CB /* LoginStoryboard.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +38,7 @@
 		033D5F4B251DD83A003533CB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		033D5F50251DD83B003533CB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		033D5F52251DD83B003533CB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		033D5F58251E23C5003533CB /* LoginStoryboard.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = LoginStoryboard.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,6 +84,7 @@
 				033D5F2A251DD81A003533CB /* AppDelegate.swift */,
 				033D5F2C251DD81A003533CB /* SceneDelegate.swift */,
 				033D5F2E251DD81A003533CB /* ViewController.swift */,
+				033D5F58251E23C5003533CB /* LoginStoryboard.storyboard */,
 				033D5F30251DD81A003533CB /* Main.storyboard */,
 				033D5F35251DD81B003533CB /* LaunchScreen.storyboard */,
 				033D5F38251DD81B003533CB /* Info.plist */,
@@ -191,6 +194,7 @@
 				033D5F37251DD81B003533CB /* LaunchScreen.storyboard in Resources */,
 				033D5F34251DD81B003533CB /* Assets.xcassets in Resources */,
 				033D5F32251DD81A003533CB /* Main.storyboard in Resources */,
+				033D5F59251E23C5003533CB /* LoginStoryboard.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
